@@ -280,7 +280,7 @@ margin-left: 20px;
   left: 0;
   z-index: 100;
   text-align: center;
-  display: grid;
+  
   place-items: center;
   display:none;
   font-size: 0.9rem;

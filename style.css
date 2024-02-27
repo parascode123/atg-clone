@@ -282,6 +282,7 @@ margin-left: 20px;
   text-align: center;
   display: grid;
   place-items: center;
+  display:none;
   font-size: 0.9rem;
  
 }

@@ -504,7 +504,7 @@ background-color:rgb(132, 126, 126);
   width:100%;
   margin-bottom: -60px;
   height:540px;
-  top:120px;
+  top:125px;
   position:fixed;
   
  
@@ -516,7 +516,7 @@ background-color:rgb(132, 126, 126);
   width:100%;
   margin-bottom: -60px;
   height:500px;
-  top:140px;
+  top:170px;
  
   position:fixed;
 }
@@ -634,4 +634,61 @@ margin:23px 0;
     margin:45px auto;
   }
   
+}
+@media screen and (max-width:440px){
+  .post-group{
+    width:470px;
+    margin:0 auto;
+  }
+.post-content{
+  width:350px;
+}
+.post{
+  width:100%;
+}
+}
+@media screen and (max-width:282px){
+  .post-group{
+    width:350px;
+    margin:0 auto;
+  }
+.post-content{
+  width:250px;
+}
+.post{
+  width:90%;
+}
+.edit{
+  right: 160px;
+  
+}
+.tab-lists{
+  width:480px;
+}
+.tab-lists li a{
+  font-size: 12px;
+}
+.form{
+  width:470px;
+  margin:0 auto;
+  
+}
+.form-display{
+  width:270px;
+  height: 40px;
+}
+.sign-btn{
+  padding:0!;
+}
+.facebook-signup{
+  padding: 0;
+}
+.google-signup{
+  padding:0;
+}
+.create-account{
+  
+  width:180px;
+ justify-self: center;
+}
 }
